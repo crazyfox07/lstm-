@@ -1,0 +1,6 @@
+model_checkpoint_path: "model_poet-240000"
+all_model_checkpoint_paths: "model_poet-220000"
+all_model_checkpoint_paths: "model_poet-225000"
+all_model_checkpoint_paths: "model_poet-230000"
+all_model_checkpoint_paths: "model_poet-235000"
+all_model_checkpoint_paths: "model_poet-240000"
